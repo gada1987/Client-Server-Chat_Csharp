@@ -1,0 +1,39 @@
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.exe
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.deps.json
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.json
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.dev.json
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.dll
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.pdb
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csprojAssemblyReference.cache
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfoInputs.cache
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfo.cs
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.dll
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.pdb
+C:\Users\lucaz.lindgren\source\repos\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.genruntimeconfig.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.exe
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.deps.json
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.json
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.dev.json
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.dll
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.pdb
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csprojAssemblyReference.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfoInputs.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfo.cs
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csproj.CoreCompileInputs.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.dll
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.pdb
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.genruntimeconfig.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.exe
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.deps.json
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.json
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.runtimeconfig.dev.json
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.dll
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\bin\Debug\netcoreapp3.1\Networking Chat Server.pdb
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csprojAssemblyReference.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfoInputs.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.AssemblyInfo.cs
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.csproj.CoreCompileInputs.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.dll
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.pdb
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Server\Chatt\obj\Debug\netcoreapp3.1\Networking Chat Server.genruntimeconfig.cache

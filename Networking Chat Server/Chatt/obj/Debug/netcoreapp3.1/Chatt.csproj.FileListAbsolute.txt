@@ -1,0 +1,13 @@
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.csprojAssemblyReference.cache
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.AssemblyInfoInputs.cache
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.AssemblyInfo.cs
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.csproj.CoreCompileInputs.cache
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.exe
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.deps.json
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.runtimeconfig.json
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.runtimeconfig.dev.json
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.dll
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\bin\Debug\netcoreapp3.1\Chatt.pdb
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.dll
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.pdb
+C:\Users\lucaz.lindgren\source\repos\Chatt\Chatt\obj\Debug\netcoreapp3.1\Chatt.genruntimeconfig.cache

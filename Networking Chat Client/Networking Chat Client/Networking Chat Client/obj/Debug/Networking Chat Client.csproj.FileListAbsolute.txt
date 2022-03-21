@@ -1,0 +1,40 @@
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csprojAssemblyReference.cache
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Properties.Resources.resources
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.GenerateResource.cache
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe.config
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.pdb
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.exe
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.pdb
+C:\Users\Lucaz\source\repos\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Chat.resources
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe.config
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.pdb
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csprojAssemblyReference.cache
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Chat.resources
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Properties.Resources.resources
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.GenerateResource.cache
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.exe
+C:\Users\lucaz.lindgren\Desktop\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.pdb
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe.config
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.pdb
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csprojAssemblyReference.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Chat.resources
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Properties.Resources.resources
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.GenerateResource.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.CoreCompileInputs.cache
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.exe
+S:\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.pdb
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe.config
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.exe
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\bin\Debug\Networking Chat Client.pdb
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csprojAssemblyReference.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Chat.resources
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking_Chat_Client.Properties.Resources.resources
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.GenerateResource.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.csproj.CoreCompileInputs.cache
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.exe
+C:\Skola\GitHub\Visual Studio\LAN-Chat\Networking Chat Client\Networking Chat Client\obj\Debug\Networking Chat Client.pdb
